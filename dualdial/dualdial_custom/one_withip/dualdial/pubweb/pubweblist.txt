@@ -1,0 +1,6 @@
+members.3322.org/dyndns/getip
+ipv4.nsupdate.info/myip
+myip.dnsomatic.com
+ip1.dynupdate.no-ip.com
+ipv4.wtfismyip.com/text
+
